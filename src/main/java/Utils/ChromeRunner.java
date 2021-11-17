@@ -14,7 +14,7 @@ public class ChromeRunner {
 
         WebDriverManager.chromedriver().setup();
         Configuration.startMaximized = true;
-        Configuration.baseUrl="https://services.sda.gov.ge/";
+        Configuration.baseUrl="https://services.sda.gov.ge";
 
 
     }
